@@ -6,4 +6,8 @@ class Abc
     int b=20;
     int c=a+b;
    }
+  public static void mai(String[] a)
+  {
+    add();
+  }
   }
